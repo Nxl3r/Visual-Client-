@@ -27,3 +27,4 @@ function loop(time) {
 }
 
 requestAnimationFrame(loop);
+drawHUD(ctx);
